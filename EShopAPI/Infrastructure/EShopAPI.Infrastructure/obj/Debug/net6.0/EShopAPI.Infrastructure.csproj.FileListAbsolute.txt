@@ -1,0 +1,17 @@
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\bin\Debug\net6.0\EShopAPI.Infrastructure.deps.json
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\bin\Debug\net6.0\EShopAPI.Infrastructure.dll
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\bin\Debug\net6.0\EShopAPI.Infrastructure.pdb
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\bin\Debug\net6.0\EShopAPI.Application.dll
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\bin\Debug\net6.0\EShopAPI.Domain.dll
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\bin\Debug\net6.0\EShopAPI.Application.pdb
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\bin\Debug\net6.0\EShopAPI.Domain.pdb
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\EShopAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\EShopAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\EShopAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\EShopAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\EShopAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\EShopAPI.Infrastructure.csproj.CopyComplete
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\EShopAPI.Infrastructure.dll
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\refint\EShopAPI.Infrastructure.dll
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\EShopAPI.Infrastructure.pdb
+C:\Users\Berkay\Desktop\E-ShopApp\EShopAPI\Infrastructure\EShopAPI.Infrastructure\obj\Debug\net6.0\ref\EShopAPI.Infrastructure.dll
